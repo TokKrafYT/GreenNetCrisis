@@ -1,0 +1,9 @@
+greennet.db
+secret_key.txt
+admin_password.txt
+__pycache__/
+*.pyc
+*.pyo
+data/
+.venv/
+venv/
