@@ -1,2 +1,0 @@
-# GreenNetCrisis
-GreenNetCrisis 
